@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitanilrao
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning how to survive life
+- 🌱 I’m currently learning how to survive
 - 💞️ I’m looking to collaborate on projects related to data science and AI.
 - 📫 How to reach me??
 - drop a mail at rohitanilrao@gmail.com
